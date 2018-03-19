@@ -1,0 +1,8 @@
+.like {
+    border: 1px solid #dadada;
+    position: absolute;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px;
+}
